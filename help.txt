@@ -1,5 +1,5 @@
 Maintenance Tunnels of Dooooooom!!!
-  by Nathan Fearnley (aka Dæmon)
+  by Natalie Fearnley (aka Dæmon)
 
 The goal of the game is for you (the little human figure) to find your way to the end of the maze (the descending stairs). The maze is represented in 2D (on the right) and 3D (on the left). When you reach the exit, you move to the next level, which is indicated in window's title. Occasionaly, while wondering the maze, you will come across monsters, which you will have to fight off. Killing monsters gives to experience, which makes you stronger. A little bit of text underneath the 2D maze displays helpful messages. Clicking on it will clear the message. Further below the 2D maze is your characters abilities. These advance when he gains enough experience to enter another level.
 
